@@ -62,7 +62,7 @@ It is not optimized for readability.
 ## Read the full text
 
 → [Full text](./text.md)
-
+→ [English version](./text_english.md)
 ---
 
 ## Notes
