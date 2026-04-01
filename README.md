@@ -32,6 +32,8 @@ A description of the term, its connection to technical reality, and where exactl
 
 **Original text (Ukrainian):** [`Prolegomena_UA.md`](Prolegomena_UA.md) 
 
+**English Translation:** [`Prolegomena_EN.md`](Prolegomena_EN.md) 
+
 ## 📑 Structure of the Book
 
 The text is structured following Immanuel Kant's *Critique of Pure Reason*, adapted for AI specifics:
