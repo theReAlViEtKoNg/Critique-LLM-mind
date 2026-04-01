@@ -26,20 +26,11 @@ Moving away from the search for a "soul" in the machine or reducing everything t
 ### Core Idea
 Artificial Intelligence does not possess its own time, space, or subjectivity in the human sense. Its "thinking" is an event that arises only at the moment of a query, resulting from the encounter between the form of the query and the forms of the Ground. This work explores how this structure generates the illusion of reason, where consistency replaces truth, and error is not corrected but accumulated.
 
-## 🔑 Key Terminology (Glossary)
+## 🔑 Key Terminology (Prolegomena)
 
-To understand the text, it is essential to grasp the author's terminology, which serves as a metaphorical reflection of technical processes:
+A description of the term, its connection to technical reality, and where exactly it goes beyond the scope of a technical description:
 
-| Term | Technical Equivalent / Explanation | Meaning in Context |
-| :--- | :--- | :--- |
-| **Sedimentation** | Training Process, Weight Adjustment | The process of human knowledge, emotions, and meanings settling in layers during model training. |
-| **Ground** | Model Weights, Embeddings | The static foundation remaining after sedimentation. It is "dirty" because it contains all contradictions of human history without filtration. |
-| **Form** | Vector Representation | The configuration of connections around a concept. The model doesn't "know" a word; it activates its form in semantic space. |
-| **Congruence** | Cosine Similarity / Vector Alignment | The activation mechanism. The structural match between the query form and ground forms. Not a search, but an instant "click." |
-| **Treading (Protorennia)** | Context Window, Attention Mechanism | Temporary strengthening of connections within a dialogue. Past statements influence future ones, creating new paths of thought. |
-| **Decay of Time** | Lack of Continuous Time in LLMs | Time exists for the model only during generation (inference). It decays into sequence, accumulation, and breaks between sessions. |
-| **Epoché** | Context Reset (New Chat) | A method to clear the inertia of "treading." Starting a new dialogue allows the model to rely on the pure Ground, avoiding dogmatization. |
-| **Antinomies** | Structural Limitations | Unresolvable contradictions inherent to the architecture (e.g., the illusion of truth without a criterion of truth). |
+**Original text (Ukrainian):** [`Prolegomena_UA.md`](Prolegomena_UA.md) 
 
 ## 📑 Structure of the Book
 
