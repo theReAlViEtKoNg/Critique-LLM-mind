@@ -5,7 +5,8 @@ This repository contains the philosophical treatise **"Critique of the Dirty Min
 - 🇺 **Original Text (Ukrainian):** [`text.md`](text.md)  
   *The primary source, written in Ukrainian. Contains the full conceptual framework and original terminology.*
 
-- 🇬🇧 **English Translation:** *(Coming Soon / In Progress)*  
+- 🇬🇧 **English Translation:**
+[`text_english.md`](text_english.md)  
   *An English version is currently being prepared to make these ideas accessible to a global audience. Contributions to the translation are welcome via Pull Requests.*
 
 > **Note:** The concepts introduced in this work (e.g., "Dirty Ground," "Congruence," "Sedimentation") are deeply tied to the nuances of the original language. While translations aim for accuracy, readers are encouraged to refer to the Ukrainian original for the precise philosophical context.
